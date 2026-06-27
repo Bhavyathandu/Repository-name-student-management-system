@@ -1,0 +1,12 @@
+bhavya,21,100
+siri,22,99
+bhavya,20,100
+siri,22,99
+sohith,22,98
+ameena,22,98
+varun,23,78
+divya,20,89
+nikitha,22,80
+ananya,32,67
+pavani,86,34
+yashu,17,90
